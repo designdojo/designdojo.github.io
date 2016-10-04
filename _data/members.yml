@@ -9,15 +9,6 @@
   url: 
   visible: true
    
-- name: Hubert
-  role: Co-founder and Web Lead
-  img: https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAksAAAAJDVmMWMwMjc3LWFmMTUtNDE5OS1hMDEyLTg5YWIwY2Y4MjY5NA.jpg
-  github: wanghong-yang
-  gplus: 
-  bio: 
-  url: http://mr-why.com/post/me
-  visible: true
-   
 - name: Varun Rajpurohit
   role: Co-founder
   img: https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAeCAAAAJDc5NDc0YmE1LWNiNmEtNGM1NS1iNWQwLTkxMzk4N2M0ZTFjYw.jpg
@@ -32,7 +23,16 @@
   bio: 
   url: 
   visible: true
-
+  
+- name: Hubert
+  role: Web Lead
+  img: https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAksAAAAJDVmMWMwMjc3LWFmMTUtNDE5OS1hMDEyLTg5YWIwY2Y4MjY5NA.jpg
+  github: wanghong-yang
+  gplus: 
+  bio: 
+  url: http://mr-why.com/post/me
+  visible: true
+   
 - name: Surya R. Kalidindi
   role: Materials Informatics
   img: https://avatars1.githubusercontent.com/u/6601815?v=3&s=400
