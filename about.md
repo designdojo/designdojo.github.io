@@ -7,5 +7,4 @@ header-img: "img/home-bg.jpg"
 
 ## Introduction
 
-Design DOJO is a balabala.....
-
+Design Dojo is a student organization at Carnegie Mellon University Silicon Valley campus, that has a dedicated community practicing software product design techniques and design thinking through interactive, collaborative, and hands-on workshops and prototyping sessions.

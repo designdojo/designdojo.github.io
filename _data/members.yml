@@ -1,22 +1,38 @@
 # Members
 
-- name: Ahmet Cecen
-  role: Data Scientist / Materials Informatics
-  img: https://avatars1.githubusercontent.com/u/7231251?v=3&s=460
-  github: ahmetcecen
-  gplus: https://plus.google.com/+AhmetCecen-GPlus
-  bio: Ahmet Cecen is currently pursuing a PhD in Computational Science and Engineering at Georgia Institute of Technology.  He earned a bachelor’s degree in Mechanical Engineering at Drexel University. Ahmet has been doing research in the fields of computational materials science and materials informatics for the past 6 years, throughout his undergraduate and graduate studies. His current research focus is on leveraging statistical analysis and machine learning tools to solve big data analytics problems in materials science. 
-  url: http://ahmetcecen.github.io/
+- name: Tingting Feng
+  role: Founder and Chief Decision Maker
+  img: https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAaMAAAAJDUwMjc4ZGFkLTdhYjUtNDFlMC05OTM1LWJmNGIwMDUyOGNmYw.jpg
+  github: 
+  gplus: 
+  bio: 
+  url: 
   visible: true
    
-- name: David Brough
-  role: Data Scientist / Materials Informatics
-  img: https://avatars0.githubusercontent.com/u/4368625?v=3&s=460
-  github: davidbrough1
-  bio: David is a PhD student in the School of Computational Science and Engineering at Georgia Institute of Technology. David earned a Master’s degree in experimental condensed matter physics at Brigham Young University where he fabricated and characterized thin-films and carbon nanotubes used in nanostructured high capacity battery electrodes and in X-ray windows. As an undergraduate, David studied theoretical physics and researched the evolution of chaotic systems using neural networks at Westminster College. He is a trainee in the NSF IGERT FLAMEL program, and one of the lead developers on PyMKS materials informatics toolkit.
-  url: http://davidbrough.net 
+- name: Hubert
+  role: Co-founder and Web Lead
+  img: https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAksAAAAJDVmMWMwMjc3LWFmMTUtNDE5OS1hMDEyLTg5YWIwY2Y4MjY5NA.jpg
+  github: wanghong-yang
+  gplus: 
+  bio: 
+  url: http://mr-why.com/post/me
+  visible: true
+   
+- name: Varun Rajpurohit
+  role: Co-founder
+  img: https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAeCAAAAJDc5NDc0YmE1LWNiNmEtNGM1NS1iNWQwLTkxMzk4N2M0ZTFjYw.jpg
+  github: 
+  bio: 
+  url:  
   visible: true
   
+- name: Muthukumaran Vallinayagam
+  role: Co-founder
+  img: https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAktAAAAJGZkOTAyOTIzLWZkMGEtNGUzYy04YzgyLWRjNDI1ZDc5NjI3MA.jpg
+  bio: 
+  url: 
+  visible: true
+
 - name: Surya R. Kalidindi
   role: Materials Informatics
   img: https://avatars1.githubusercontent.com/u/6601815?v=3&s=400
