@@ -15,7 +15,7 @@ category:  project1
 ### Time
 **Wednesday, October 12 at 5 PM - 6 PM**<br />
 Next Week · 57–72° Partly Cloudy<br />
-[Add to Calendar](../cals/Design_DOJO_Workshop_with_Facebook_Designers.ics)
+[Add to Calendar](https://designdojo.github.io/cals/Design_DOJO_Workshop_with_Facebook_Designers.ics)
 
 ### Position
 Product Design Club at CMU<br/>
