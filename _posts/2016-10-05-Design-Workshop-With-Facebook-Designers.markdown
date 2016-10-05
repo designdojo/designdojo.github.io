@@ -19,7 +19,8 @@ Next Week · 57–72° Partly Cloudy<br />
 
 ### Position
 Product Design Club at CMU<br/>
-23, NASA Research Park, Mountain View, California 94035
+23, NASA Research Park, Mountain View, California 94035<br />
+[Check Position](https://www.google.com/maps/?q=Carnegie%20Mellon%20University%20-%20Silicon%20Valley)
 
 ### Ticket Available
 [Find Tickets](https://docs.google.com/a/west.cmu.edu/forms/d/e/1FAIpQLSdMSEwAMi3k5u1HuMuebHIXev6Dbhgb66L637JQFLbudcbyDQ/viewform?c=0&w=1)
