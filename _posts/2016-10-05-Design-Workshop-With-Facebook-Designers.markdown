@@ -13,11 +13,10 @@ category:  project1
 [![](http://ww3.sinaimg.cn/large/7359a3efgw1f8h5lnrd8hj210g16qgus.jpg)](https://www.facebook.com/events/1676931899290208/)
 
 ### Time
-**Wednesday, October 12 at 5 PM - 6 PM**
-Next Week · 57–72° Partly Cloudy
+**Wednesday, October 12 at 5 PM - 6 PM**<br />Next Week · 57–72° Partly Cloudy
 
 ### Position
-Product Design Club at CMU
+Product Design Club at CMU<br/>
 23, NASA Research Park, Mountain View, California 94035
 
 ### Ticket Available
