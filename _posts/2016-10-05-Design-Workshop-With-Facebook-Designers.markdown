@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      Event
+title:      Design Workshop with Facebook Designers 
 author:     Hubert Wang
-tags: 		events
-subtitle:  	Design Workshop with Facebook Designers 
+tags: 		event
+subtitle:  	Design DOJO Event 
 category:  project1
 ---
 <!-- Start Writing Below in Markdown -->
