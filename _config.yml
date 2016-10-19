@@ -1,5 +1,5 @@
 # Site settings
-title: DesignDojo
+title: Design Dojo
 email: design-dojo@outlook.com
 url: https://designdojo.github.io
 description: "A CMU Design Club About HCI and Design Thinking"
@@ -10,7 +10,7 @@ color:
   links: '#31b5bd'#'#219ab3'
 
 # Footer settings
-footer: DesignDojo
+footer: Design Dojo
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
